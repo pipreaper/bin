@@ -1,0 +1,4 @@
+ 
+#!/bin/bash
+echo suspending!
+sleep 1 && systemctl suspend

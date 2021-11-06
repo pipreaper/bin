@@ -1,0 +1,4 @@
+ 
+#!/bin/bash
+echo suspending in onehour!
+sleep 3600 && systemctl suspend
